@@ -9,7 +9,6 @@ Beginner dev just learning something new.
   <div>
     <h1>The Purple Swann</h1>
     <br>
-    <br>
     <h3>Exquisite items, crocheted by hand!!!</h3>
   </div>
   <!-- Interested in adding nav to page, here maybe?-->
